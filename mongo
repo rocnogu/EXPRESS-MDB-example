@@ -1,0 +1,6 @@
+MONGO_URL=mongodb+srv://admin:pBHp3sAbasO8LJBj@cluster0.gfifz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+PORT=6969
+
+
+
+

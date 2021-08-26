@@ -1,0 +1,8 @@
+PUT http://localhost:3000/students/6127eb1f3084bea33d0f5478
+Content-Type: application/json
+
+{
+    "name": "john3",
+    "first_name": "doe3",
+    "email":"john3@doe3.com"
+}
